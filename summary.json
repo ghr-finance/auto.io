@@ -1,0 +1,50 @@
+[
+  {
+    "bulan": "Agustus 2025",
+    "totalPemasukan": 6720000,
+    "totalPengeluaran": 6053352,
+    "saldoAkhir": 666648
+  },
+  {
+    "bulan": "April 2025",
+    "totalPemasukan": 4480000,
+    "totalPengeluaran": 5233600,
+    "saldoAkhir": -753600
+  },
+  {
+    "bulan": "Februari 2025",
+    "totalPemasukan": 1060000,
+    "totalPengeluaran": 3544000,
+    "saldoAkhir": -2484000
+  },
+  {
+    "bulan": "Juli 2025",
+    "totalPemasukan": 4010000,
+    "totalPengeluaran": 3631000,
+    "saldoAkhir": 379000
+  },
+  {
+    "bulan": "Juni 2025",
+    "totalPemasukan": 3432000,
+    "totalPengeluaran": 6379830,
+    "saldoAkhir": -2947830
+  },
+  {
+    "bulan": "Maret 2025",
+    "totalPemasukan": 15242000,
+    "totalPengeluaran": 7756000,
+    "saldoAkhir": 7486000
+  },
+  {
+    "bulan": "Mei 2025",
+    "totalPemasukan": 4570000,
+    "totalPengeluaran": 5079350,
+    "saldoAkhir": -509350
+  },
+  {
+    "bulan": "September 2025",
+    "totalPemasukan": 1835000,
+    "totalPengeluaran": 3370000,
+    "saldoAkhir": -1535000
+  }
+]
